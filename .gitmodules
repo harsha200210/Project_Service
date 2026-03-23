@@ -1,0 +1,3 @@
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/harsha200210/Enrollment_Service.git
