@@ -4,3 +4,6 @@
 [submodule "program-service"]
 	path = program-service
 	url = https://github.com/harsha200210/Program_Service.git
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/harsha200210/Student_Service.git
